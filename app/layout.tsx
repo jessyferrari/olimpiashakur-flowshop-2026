@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Olimpia Shakur • Afiliados Tech",
+  title: "Olimpia Shakur • Flow Shop - Tech 2026",
   description: "Curadoria 2026 de links afiliados (Amazon, Mercado Livre, Hotmart, Kiwify).",
 };
 
