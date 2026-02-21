@@ -1,4 +1,4 @@
-# Olimpia Shakur • Flow Shop Afiliados 2026 (Next.js + Vercel)
+# Olimpia Shakur • Flow Shop 2026 (Next.js + Vercel)
 
 ## O que já está pronto
 - Links organizados por seção (Amazon, Mercado Livre, Hotmart, Kiwify), **na ordem** do arquivo `src/data/affiliateLinks.ts`.
