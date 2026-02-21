@@ -11,7 +11,7 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white">
       <header className="px-6 pt-10 pb-6">
         <div className="flex items-center gap-4">
-            <<Image src="/brands/logo.png.jpeg" alt="Olimpia Shakur" width={56} height={56} priority />>          
+            <Image src="/brands/logo.png.jpeg" alt="Olimpia Shakur" width={56} height={56} priority />          
           <div>
             <h1 className="text-2xl font-semibold tracking-wide">
               Olimpia Shakur • Flow Shop - Copa do Mundo & Tech 2026
