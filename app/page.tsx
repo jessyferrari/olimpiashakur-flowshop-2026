@@ -14,7 +14,7 @@ export default function Home() {
           <Image src="/logo.svg" alt="Olimpia Shakur" width={56} height={56} priority />
           <div>
             <h1 className="text-2xl font-semibold tracking-wide">
-              Olimpia Shakur • Afiliados Tech
+              Olimpia Shakur • Tech 2026
             </h1>
             <p className="text-sm opacity-80">
               Curadoria 2026 • Amazon • Mercado Livre • Hotmart • Kiwify
